@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kelixlabs\\KelixNetTools\\": "src/"
+            "farisihannah\\KelixNetTools\\": "src/"
         }
     },
 	"minimum-stability": "alpha",
