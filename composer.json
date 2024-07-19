@@ -28,6 +28,6 @@
             "farisihannah\\KelixNetTools\\": "src/"
         }
     },
-	"minimum-stability": "alpha",
+	"minimum-stability": "dev",
     "prefer-stable": true
 }
